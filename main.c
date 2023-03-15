@@ -9,6 +9,11 @@ Initial Security()
 {
  //Sample Code
 }
+New Security()
+{
+  //Sample Code
+}
+
 
 
 
